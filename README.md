@@ -1,7 +1,6 @@
-## Hi there 👋
+# Hi 👋, l'm Simisola from Nigeria
 
-<!--
-**simisolajnr30/simisolajnr30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A pssionate cyber security student building hands-on SOC Analyst projects.
 
 Here are some ideas to get you started:
 
