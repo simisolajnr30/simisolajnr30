@@ -1,26 +1,25 @@
 
-# Hi 👋, I'm Simisola from Nigeria
-
-A passionate cyber security student building hands-on SOC Analyst projects.
-
----
-
-## 🚀 Languages and Tools I Use
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-</p>
+# 👋 Hi, I'm Simisola from Nigeria  
+A passionate cybersecurity student building hands-on SOC Analyst projects focused on phishing analysis, log monitoring, and network forensics.
 
 ---
 
-## ⚡ Where to find me
+## 🧰 Tools & Technologies I Use  
+🔹 **SIEM & Log Analysis:** Splunk  
+🔹 **Network Analysis:** Wireshark  
+🔹 **Threat Intelligence:** VirusTotal  
+🔹 **Endpoint & Forensics:** Velociraptor  
 
-<p>
-  <a href="https://www.linkedin.com/in/oyekan-simisola-35747a1b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:oyekansimisola40@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/simisolajnr30"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+---
+
+## 📂 Featured Project  
+**[Email and Phishing Analysis](https://github.com/simisolajnr30/Email-and-Phising-Analysis)**  
+Analyzed a phishing email to detect spoofed domains, failed authentication headers, and malicious IPs using Thunderbird, MXToolbox, and VirusTotal.
+
+---
+
+## 📫 Where to Find Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oyekan-simisola-35747a1b8)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simisolajnr30)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oyekansimisola40@gmail.com)
 
