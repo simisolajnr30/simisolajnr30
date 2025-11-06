@@ -11,6 +11,14 @@ A passionate cybersecurity student building hands-on SOC Analyst projects focuse
 🔹 **Endpoint & Forensics:** Velociraptor  
 
 ---
+ ## Certification
+ Google Cybersecurity Professional Certificate
+
+
+
+
+
+
 
 ## 📂 Featured Project  
 **[Email and Phishing Analysis](https://github.com/simisolajnr30/Email-and-Phising-Analysis)**  
