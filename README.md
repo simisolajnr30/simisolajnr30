@@ -13,7 +13,9 @@ A passionate cybersecurity student building hands-on SOC Analyst projects focuse
 ---
  ## Certification
    **Google Cybersecurity Professional Certificate
+   
    **Cisco Network Basics
+   
    **Deloitte Australia- Cyber Job Simulation
 
 ## 📂 Featured Project  
