@@ -8,8 +8,8 @@ I’m passionate about analyzing threats, monitoring security logs, and building
 ---
 
 ## 🧰 Tools & Technologies
-- **SIEM & Log Analysis:** Splunk  
-- **Network Analysis:** Wireshark  
+- **SIEM & Log Analysis:** DNS, SSH, HTTP/HTTPS 
+- **Network Analysis:** Wireshark and TCPDump
 - **Threat Intelligence:** VirusTotal  
 - **Threat Hunting:** Splunk
 - **Incident Response:**
