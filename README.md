@@ -27,6 +27,9 @@ I’m passionate about analyzing threats, monitoring security logs, and building
 - 📨 [**Email & Phishing Analysis**](https://github.com/simisolajnr30/Email-and-Phising-Analysis)  
   Detected spoofed domains and malicious infrastructure by analyzing email headers and verifying results with MXToolbox and VirusTotal.
 
+  - **Log Analysis**
+      Analyzed DNS,SSH, and HTTP/HTTPS logs to detect suspicious activity, investigate security events, and support threat hunting.
+
 ---
 
 ## 📫 Connect With Me
