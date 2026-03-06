@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Simisola  
 
-🎯 **Aspiring SOC Analyst | Cybersecurity Student | Building Hands-on Projects**  
+🎯 ** SOC Analyst | SIEM | Splunk | Wireshark | Threat Intelligence | Incident Response | Threat Hunting **
 
 I’m passionate about analyzing threats, monitoring security logs, and building projects that simulate real-world SOC operations.
 
@@ -11,7 +11,8 @@ I’m passionate about analyzing threats, monitoring security logs, and building
 - **SIEM & Log Analysis:** Splunk  
 - **Network Analysis:** Wireshark  
 - **Threat Intelligence:** VirusTotal  
-- **Endpoint Forensics:** Velociraptor  
+- **Threat Hunting:** Splunk
+- **Incident Response:**
 
 ---
 
