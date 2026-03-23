@@ -18,7 +18,7 @@ I’m passionate about analyzing threats, monitoring security logs, and building
 
 ## 🎓 Certifications & Courses
 - 🎓 [**Google Cybersecurity Professional Certificate**](https://coursera.org/share/18215e3563056a39e9d318d04008d442)  
-- 🧩 [**Cisco - Network Basics**](https://skillsforall.com/course/networking-basics)  
+- 🧩 [**Cisco - Network Basics**](https://www.credly.com/users/oyekan-simisola)  
 - 💼 [**Deloitte Australia - Cybersecurity Job Simulation**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_pnWsNgX7XkzZgQJWj_1751381837264_completion_certificate.pdf)  
 
 ---
