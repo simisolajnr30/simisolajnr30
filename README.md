@@ -12,7 +12,7 @@ I’m passionate about analyzing threats, monitoring security logs, and building
 - **Network Analysis:** Wireshark and TCPDump
 - **Threat Intelligence:** VirusTotal  
 - **Threat Hunting:** Splunk
-- **Incident Response:**
+- **Incident Response**
 
 ---
 
