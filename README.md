@@ -17,7 +17,7 @@ I’m passionate about analyzing threats, monitoring security logs, and building
 ---
 
 ## 🎓 Certifications & Courses
-- 🎓 [**Google Cybersecurity Professional Certificate**](https://www.coursera.org/professional-certificates/google-cybersecurity)  
+- 🎓 [**Google Cybersecurity Professional Certificate**](https://coursera.org/share/18215e3563056a39e9d318d04008d442)  
 - 🧩 [**Cisco - Network Basics**](https://skillsforall.com/course/networking-basics)  
 - 💼 [**Deloitte Australia - Cybersecurity Job Simulation**](https://forage.com/virtual-experience/programs/deloitte-cyber)  
 
